@@ -1,13 +1,13 @@
-Space Shooter Game
+Space Shooter Game:
 A simple 2D space shooter game built with PyGame where you defend against incoming alien ships. I've successfully created a standalone executable so you can run the game without needing Python installed.
 
-Game Description
+Game Description:
 Control a spaceship at the bottom of the screen and shoot down enemy ships that move horizontally and gradually descend. The game ends when any enemy reaches near your spaceship. Try to get the highest score possible!
 
-How to Run
+How to Run:
 Simply double-click space_game_v1.exe - no installation needed! The game should run immediately on Windows systems.
 
-Controls
+Controls:
 LEFT/RIGHT Arrow Keys - Move your spaceship
 
 SPACEBAR - Shoot laser bullets
@@ -16,7 +16,7 @@ N Key - Restart the game when game over
 
 X Key - Exit the game
 
-File Details
+File Details:
 The executable includes all necessary files bundled together:
 
 spaceship.png (24 KB) - Player spaceship image
@@ -37,7 +37,7 @@ background.wav (4,735 KB) - Background music
 
 space_game_v1.exe (17,782 KB) - The game executable
 
-Game Features
+Game Features:
 Background music with adjustable volume
 
 Sound effects for shooting and explosions
@@ -50,7 +50,7 @@ Game over screen with restart option
 
 No dependencies or installation required
 
-Technical Details
+Technical Details:
 Built with Python 3.x and PyGame
 
 Compiled using PyInstaller for standalone execution
@@ -61,7 +61,7 @@ Complete game loop with collision detection
 
 All assets bundled into single executable
 
-If You Have Issues
+If You Have Issues:
 Make sure you're on Windows (the .exe is Windows-only)
 
 Try running as administrator if the game doesn't launch
@@ -84,7 +84,8 @@ pyinstaller --onefile --noconsole --add-data "*.png;." --add-data "*.wav;." --ad
 Notes
 This is a beginner PyGame project I created while learning game development. The executable version makes it easy to share with friends who don't have Python installed.
 
-Author
-Created by Yass GR as a PyGame learning project.
+Author:
+Created by Yassine GR as a PyGame learning project.
 
-Game assets from various free sources, compiled January 2026
+Game assets from various free sources
+
