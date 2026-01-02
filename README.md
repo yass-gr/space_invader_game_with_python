@@ -1,6 +1,6 @@
 Space Shooter Game:
 
-A simple 2D space shooter game built with PyGame where you defend against incoming alien ships. I've successfully created a standalone executable so you can run the game without needing Python installed.
+A simple 2D space shooter game built with Python where you defend against incoming alien ships. I've successfully created a standalone executable so you can run the game without needing Python installed.
 
 Game Description:
 
